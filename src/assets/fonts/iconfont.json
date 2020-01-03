@@ -1,0 +1,23 @@
+{
+  "id": "1594726",
+  "name": "woyaozibi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "古诗学习小程序",
+  "glyphs": [
+    {
+      "icon_id": "12638915",
+      "name": "password",
+      "font_class": "mima",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12638919",
+      "name": "username",
+      "font_class": "xingmingyonghumingnicheng",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

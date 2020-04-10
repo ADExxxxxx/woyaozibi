@@ -1,5 +1,7 @@
 # woyaozibi
 
+Vue版本趣寻诗后台管理系统
+
 ## Project setup
 ```
 npm install
